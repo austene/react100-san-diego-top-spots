@@ -22,4 +22,4 @@ $ npm start
 
 ## Now
 Deployed to NOW through URL
->
+>https://react100-san-diego-top-spots-47sd2mhp7.now.sh
