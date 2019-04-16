@@ -26,7 +26,6 @@ class App extends Component {
           <h1 className='display-3'>San Diego Top Spots</h1>
           <hr className='mx-5' />
           <p className='lead font-italic'>A list of the top 30 places to see in San Diego, California.</p>
-          {/* <hr /> */}
         </div>
         {
           this.state.topspots.map(topspot => (
