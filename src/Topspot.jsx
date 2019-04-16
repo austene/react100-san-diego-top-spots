@@ -9,7 +9,7 @@ export default props => (
       className='btn btn-primary'
       target='_blank'
       rel='noopener noreferrer'
-      href={ `https://www.google.com/maps?q=${props.location[0]},${props.location[1]}` }>Map</a>
-    <p />
+      href={ `https://maps.google.com/?q=${props.location[0]},${props.location[1]}` }
+    >Map</a>
   </div>
 );
